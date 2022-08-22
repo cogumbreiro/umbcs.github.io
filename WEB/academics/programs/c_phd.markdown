@@ -18,11 +18,11 @@ After 30 credits of graduate work have been completed, candidates who leave the 
 
 Candidates who continue with the program will take a written qualifying exam to verify the breadth of his or her knowledge. The examination covers theoretical computer science and two of the following areas:
 
-Artificial Intellegence 
-Programming Languages
-Databases
-Systems
-Networks
+- Artificial Intelligence 
+- Programming Languages
+- Databases
+- Systems
+- Networks
 
 After 48 credits of graduate work have been completed each candidate will present a dissertation proposal to the thesis committee. The thesis committee may accept or reject the proposal.
 
